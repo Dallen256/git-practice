@@ -1,2 +1,3 @@
-# git-practice
-My git and github practice project
+## About This Project
+
+I am learning Git and GitHub through practical projects.
